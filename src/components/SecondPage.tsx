@@ -13,13 +13,11 @@ const photos = [
 
 const favorites = {
   "Favorite Color": "lilac",
-  "Favorite Food": "Pizza",
-  "Favorite Movie": "The Notebook",
-  "Favorite Song": "Perfect - Ed Sheeran",
-  "Favorite Place": "The beach at sunset",
-  "Favorite Memory": "Our first date",
-  "Favorite Activity": "Watching movies together",
-  "Favorite Season": "Spring"
+  "Favorite Food": "Pizza,burger all sort of fast food ",
+  "Favorite Place": "venice",
+  "Favorite Memory": "havent done yet",
+  "Favorite Activity": "holding hands",
+  "Favorite Season": "spring"
 };
 
 export default function SecondPage({ onNextPage }: SecondPageProps) {
