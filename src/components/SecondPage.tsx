@@ -6,9 +6,9 @@ interface SecondPageProps {
 }
 
 const photos = [
-  "src/assets/1.jpg", // Replace these with your girlfriend's photos
-  "src/assets/2.jpg",
-  "src/assets/3.jpg",
+  "https://res.cloudinary.com/dhqbrpjxn/image/upload/f_auto,q_auto/ysqq8xrwn07o9nvuztd5", // Replace these with your girlfriend's photos
+  "https://res.cloudinary.com/dhqbrpjxn/image/upload/v1739024644/s3uznfsww46pap77mxg5.jpg",
+  "https://res.cloudinary.com/dhqbrpjxn/image/upload/v1739024643/qkdrxeqvukyvgdh9i6ju.jpg",
 ];
 
 const favorites = {
